@@ -140,3 +140,4 @@
 /Users/ngxthanhuyen/Documents/MiniProjet/backend/obj/Debug/net9.0/backend.pdb
 /Users/ngxthanhuyen/Documents/MiniProjet/backend/obj/Debug/net9.0/backend.genruntimeconfig.cache
 /Users/ngxthanhuyen/Documents/MiniProjet/backend/obj/Debug/net9.0/ref/backend.dll
+/Users/ngxthanhuyen/Documents/MiniProjet/backend/obj/Debug/net9.0/backend.sourcelink.json
